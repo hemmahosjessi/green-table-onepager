@@ -1,0 +1,3276 @@
+{
+  "baseRows": [
+    {
+      "id": "base-1",
+      "level": "1",
+      "variableNameNow": "neutral-01",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF / 0A0B0B",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on documents background.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-1"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-1"
+      }
+    },
+    {
+      "id": "base-2",
+      "level": "1",
+      "variableNameNow": "neutral-02",
+      "variableName30": "",
+      "variableHexNow": "F4F5F5 / 0A0B0B",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on documents background.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2"
+      }
+    },
+    {
+      "id": "base-3",
+      "level": "1",
+      "variableNameNow": "brand-01",
+      "variableName30": "",
+      "variableHexNow": "003824 / 003824",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on documents background. Use with care. When a section with contrast is needed.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-3"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-3"
+      }
+    },
+    {
+      "id": "base-4",
+      "level": "1",
+      "variableNameNow": "inversed",
+      "variableName30": "neutral-03?",
+      "variableHexNow": "003824 / 003824",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "Renamed?",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Used on documents background. Use with care. When a section with contrast is needed.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-4"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-4"
+      }
+    }
+  ],
+  "semanticRows": [
+    {
+      "id": "base-2-1",
+      "level": "2",
+      "variableNameNow": "neutral-01",
+      "variableName30": "",
+      "variableHexNow": "F7F8F7 / 191A1A",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on level 2 surfaces, like cards.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2-1"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2-1"
+      }
+    },
+    {
+      "id": "base-2-2",
+      "level": "2",
+      "variableNameNow": "",
+      "variableName30": "neutral-01-2",
+      "variableHexNow": "",
+      "variableHex30": "FFFFFF / 313533",
+      "commentBadge": {
+        "text": "Addition",
+        "variant": "warning",
+        "iconName": "warning"
+      },
+      "usedFor": "Only used for a card on top of the neutral-01 surface, card or dialog for example.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2-2"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2-2"
+      }
+    },
+    {
+      "id": "base-2-3",
+      "level": "2",
+      "variableNameNow": "neutral-02",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF / 191A1A",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on level 2 surfaces, like cards",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2-3"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2-3"
+      }
+    },
+    {
+      "id": "base-2-4",
+      "level": "2",
+      "variableNameNow": "neutral-02-2",
+      "variableName30": "",
+      "variableHexNow": "F7F8F7 / 313533",
+      "variableHex30": "F7F8F7 / 282A29",
+      "commentBadge": {
+        "text": "Darkmode variable",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Only used for a card on top of the neutral-02 surface, cards most common.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2-4"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "base-2-4"
+      }
+    },
+    {
+      "id": "level-2-1773493518504",
+      "level": "2",
+      "variableNameNow": "neutral-03",
+      "variableName30": "",
+      "variableHexNow": "0A0B0B / 3B3F3E ",
+      "variableHex30": "0A0B0B / 313533 ",
+      "commentBadge": {
+        "text": "Darkmode variable",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Used on level 2 surfaces, like cards. Used if you need a high contrast container.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-2-1773493518504"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-2-1773493518504"
+      }
+    },
+    {
+      "id": "level-2-1773493671169",
+      "level": "2",
+      "variableNameNow": "brand-01",
+      "variableName30": "",
+      "variableHexNow": "003824 / 003824 ",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on level 2 surfaces, like cards. Used if you need a high contrast container with brand messages."
+    },
+    {
+      "id": "level-2-1773493708031",
+      "level": "2",
+      "variableNameNow": "brand-02",
+      "variableName30": "",
+      "variableHexNow": "F8F6F1 / 231D10 ",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on level 2 surfaces, like cards. Mostly used with tonal combinations."
+    },
+    {
+      "id": "level-2-1773493757565",
+      "level": "2",
+      "variableNameNow": "positive-01",
+      "variableName30": "",
+      "variableHexNow": "F1F9F1 / 003D26 ",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on alert positive container.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-2-1773493757565"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-2-1773493757565"
+      }
+    },
+    {
+      "id": "level-2-1773493804969",
+      "level": "2",
+      "variableNameNow": "negative-01",
+      "variableName30": "",
+      "variableHexNow": "FEF7F6 / 451207 ",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on alert negative container.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-2-1773493804969"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-2-1773493804969"
+      }
+    },
+    {
+      "id": "level-2-1773493861720",
+      "level": "2",
+      "variableNameNow": "warning-01",
+      "variableName30": "",
+      "variableHexNow": "FEF8F1 / 482A05 ",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on alert warning container."
+    },
+    {
+      "id": "level-2-1773493923963",
+      "level": "2",
+      "variableNameNow": "information-01",
+      "variableName30": "",
+      "variableHexNow": "F7F8F7 / 1E201F ",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on alert information container."
+    },
+    {
+      "id": "level-2-1773494016902",
+      "level": "2",
+      "variableNameNow": "notice-01",
+      "variableName30": "",
+      "variableHexNow": "F5FAFF / 00294D ",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on alert notice container.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-2-1773494016902"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-2-1773494016902"
+      }
+    }
+  ],
+  "componentRows": [
+    {
+      "id": "component-1",
+      "level": "3",
+      "variableNameNow": "neutral-01",
+      "variableName30": "",
+      "variableHexNow": "0A0B0B / D5D7D7",
+      "variableHex30": "FFFFFF / 282A29",
+      "commentBadge": {
+        "text": "New hex",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Future white components on level 3 background. ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "component-1"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "component-1"
+      }
+    },
+    {
+      "id": "level-3-1773563875197",
+      "level": "3",
+      "variableNameNow": "",
+      "variableName30": "neutral-01-2",
+      "variableHexNow": "",
+      "variableHex30": "EFF0F0 / 3B3F3E",
+      "commentBadge": {
+        "text": "Addition",
+        "variant": "warning",
+        "iconName": "warning"
+      },
+      "usedFor": "Used on future white components, for example on a badge on a button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773563875197"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773563875197"
+      }
+    },
+    {
+      "id": "level-3-1773495985040",
+      "level": "3",
+      "variableNameNow": "neutral-02",
+      "variableName30": "",
+      "variableHexNow": "EAEBEB / 282A29",
+      "variableHex30": "EFF0F0 / 313533",
+      "commentBadge": {
+        "text": "New hex ",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Used on secondary button, segmented control container. ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773495985040"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773495985040"
+      }
+    },
+    {
+      "id": "level-3-1773564180442",
+      "level": "3",
+      "variableNameNow": "",
+      "variableName30": "neutral-02-2",
+      "variableHexNow": "",
+      "variableHex30": "FFFFFF / 3B3F3E",
+      "commentBadge": {
+        "text": "Addition",
+        "variant": "warning",
+        "iconName": "warning"
+      },
+      "usedFor": "Used on neutral-02, for example on a badge on a secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773564180442"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773564180442"
+      }
+    },
+    {
+      "id": "level-3-1773496026473",
+      "level": "3",
+      "variableNameNow": "neutral-03",
+      "variableName30": "",
+      "variableHexNow": "D5D7D7 / 3B3F3E",
+      "variableHex30": "0A0B0B / D5D7D7",
+      "commentBadge": {
+        "text": "New hex",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Used on the primary button, the segment button, filter chips. (previous neutral-01)",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496026473"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496026473"
+      }
+    },
+    {
+      "id": "level-3-1773564370751",
+      "level": "3",
+      "variableNameNow": "",
+      "variableName30": "neutral-03-2",
+      "variableHexNow": "",
+      "variableHex30": "343736 / C0C4C2",
+      "commentBadge": {
+        "text": "Addition",
+        "variant": "warning",
+        "iconName": "warning"
+      },
+      "usedFor": "Used on neutral-03. For example a badge on the primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773564370751"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773564370751"
+      }
+    },
+    {
+      "id": "level-3-1773496044369",
+      "level": "3",
+      "variableNameNow": "neutral-04",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF /  3B3F3E",
+      "variableHex30": "FFFFFF / F7F8F7",
+      "commentBadge": {
+        "text": "Need to talk!",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "Not sure if we need this, we have the same as a content pair. ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496044369"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496044369"
+      }
+    },
+    {
+      "id": "level-3-1773496071853",
+      "level": "3",
+      "variableNameNow": "neutral-05",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF / 003824",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "REMOVE!",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496071853"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496071853"
+      }
+    },
+    {
+      "id": "level-3-1773496093465",
+      "level": "3",
+      "variableNameNow": "brand-01",
+      "variableName30": "",
+      "variableHexNow": "003824 / 003824",
+      "variableHex30": "003824 / D5D7D7",
+      "commentBadge": {
+        "text": "New hex",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Used on the brand button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496093465"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496093465"
+      }
+    },
+    {
+      "id": "level-3-1773496107935",
+      "level": "3",
+      "variableNameNow": "brand-02",
+      "variableName30": "",
+      "variableHexNow": "EFE9DC / EFE9DC",
+      "variableHex30": "EFE9DC / 342B18",
+      "commentBadge": {
+        "text": "New hex",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Used for a tonal button on the level 2 brand-02.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496107935"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496107935"
+      }
+    },
+    {
+      "id": "level-3-1773496123002",
+      "level": "3",
+      "variableNameNow": "brand-03",
+      "variableName30": "brand-02-2",
+      "variableHexNow": "E7DDCB /  E7DDCB",
+      "variableHex30": "E7DDCB /  453921",
+      "commentBadge": {
+        "text": "New name and hex",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Used on brand-02, for example a badge on the tonal button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496123002"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496123002"
+      }
+    },
+    {
+      "id": "level-3-1773564909610",
+      "level": "3",
+      "variableNameNow": "positive-01",
+      "variableName30": "",
+      "variableHexNow": "027839 / 026436",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on the primary positive button."
+    },
+    {
+      "id": "level-3-1773496143140",
+      "level": "3",
+      "variableNameNow": "positive-02",
+      "variableName30": "",
+      "variableHexNow": "DCEFDC / 015130",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for the positive secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496143140"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496143140"
+      }
+    },
+    {
+      "id": "level-3-1773496182682",
+      "level": "3",
+      "variableNameNow": "positive-03",
+      "variableName30": "",
+      "variableHexNow": "CCEACC / 003D26",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on positive-02, for example a badge on the positive secondary button. Badge positive.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496182682"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496182682"
+      }
+    },
+    {
+      "id": "level-3-1773496206986",
+      "level": "3",
+      "variableNameNow": "negative-01",
+      "variableName30": "",
+      "variableHexNow": "B92F13 / A22911",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on the primary negative button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496206986"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496206986"
+      }
+    },
+    {
+      "id": "level-3-1773496220626",
+      "level": "3",
+      "variableNameNow": "negative-02",
+      "variableName30": "",
+      "variableHexNow": "FDEBE8 / 731D0C",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for the negative secondary button. Error state on input.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496220626"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496220626"
+      }
+    },
+    {
+      "id": "level-3-1773496237808",
+      "level": "3",
+      "variableNameNow": "negative-03",
+      "variableName30": "",
+      "variableHexNow": "FAD8D1 / 5C170A",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on negative-02, for example a badge on the negative secondary button. Badge negative.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496237808"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773496237808"
+      }
+    },
+    {
+      "id": "level-3-1773497548769",
+      "level": "3",
+      "variableNameNow": "notice-01",
+      "variableName30": "",
+      "variableHexNow": "005FB3 / 005FB3",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on the primary notice button. (Mostly used for Buy).",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497548769"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497548769"
+      }
+    },
+    {
+      "id": "level-3-1773497570622",
+      "level": "3",
+      "variableNameNow": "notice-02",
+      "variableName30": "",
+      "variableHexNow": "E6F3FF / 004480",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for tonal button on level 2 notice-01 (Alert notice).",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497570622"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497570622"
+      }
+    },
+    {
+      "id": "level-3-1773497585339",
+      "level": "3",
+      "variableNameNow": "notice-03",
+      "variableName30": "",
+      "variableHexNow": "CCE7FF / 003666",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on notice-02, for example a badge on the tonal notice button. Badge notice.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497585339"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497585339"
+      }
+    },
+    {
+      "id": "level-3-1773497621377",
+      "level": "3",
+      "variableNameNow": "warning-01",
+      "variableName30": "",
+      "variableHexNow": "8F530A / F19E38",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on the primary warning button. (rarely used).",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497621377"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497621377"
+      }
+    },
+    {
+      "id": "level-3-1773497633398",
+      "level": "3",
+      "variableNameNow": "warning-02",
+      "variableName30": "",
+      "variableHexNow": "FCE8CF / 774508",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for tonal button on level 2 warning-01 (Alert warning).",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497633398"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497633398"
+      }
+    },
+    {
+      "id": "level-3-1773497650349",
+      "level": "3",
+      "variableNameNow": "warning-03",
+      "variableName30": "",
+      "variableHexNow": "FADCB7 / 5F3707",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on warning-02, for example a badge on the tonal warning button. Badge warning.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497650349"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497650349"
+      }
+    },
+    {
+      "id": "level-3-1773497672328",
+      "level": "3",
+      "variableNameNow": "information-01",
+      "variableName30": "",
+      "variableHexNow": "0A0B0B /  D5D7D7",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "USED FOR? Same pair as neutral-03",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497672328"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497672328"
+      }
+    },
+    {
+      "id": "level-3-1773497690510",
+      "level": "3",
+      "variableNameNow": "information-02",
+      "variableName30": "",
+      "variableHexNow": "EAEBEB / 313533",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "USED FOR? If badge on information use neutral-03-2?",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497690510"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497690510"
+      }
+    },
+    {
+      "id": "level-3-1773497706864",
+      "level": "3",
+      "variableNameNow": "information-03",
+      "variableName30": "",
+      "variableHexNow": "DFE1E1 / 595F5D",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "USED FOR? ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497706864"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497706864"
+      }
+    },
+    {
+      "id": "level-3-1773497728323",
+      "level": "3",
+      "variableNameNow": "disabled-01",
+      "variableName30": "",
+      "variableHexNow": "EFF0F0 / 595F5D",
+      "variableHex30": "000 8 % / FFF 8 %",
+      "commentBadge": {
+        "text": "New hex",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Used on disabled state on containers on level 3.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497728323"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497728323"
+      }
+    },
+    {
+      "id": "level-3-1773497744577",
+      "level": "3",
+      "variableNameNow": "disabled-02",
+      "variableName30": "",
+      "variableHexNow": "A0A6A4 / 595F5D",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "REMOVE",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497744577"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497744577"
+      }
+    },
+    {
+      "id": "level-3-1773497770985",
+      "level": "3",
+      "variableNameNow": "disabled-03",
+      "variableName30": "",
+      "variableHexNow": "EFF0F0 /  818886",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "REMOVE",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497770985"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "level-3-1773497770985"
+      }
+    }
+  ],
+  "contentRows": [
+    {
+      "id": "content-1",
+      "level": "Content",
+      "variableNameNow": "neutral-01",
+      "variableName30": "",
+      "variableHexNow": "0A0B0B / F7F8F7",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for text and icons.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1"
+      }
+    },
+    {
+      "id": "content-1773566488634",
+      "level": "Content",
+      "variableNameNow": "neutral-02",
+      "variableName30": "",
+      "variableHexNow": "636967 / ABB0AE",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for secondary text. ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773566488634"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773566488634"
+      }
+    },
+    {
+      "id": "content-1773566896306",
+      "level": "Content",
+      "variableNameNow": "neutral-03",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF / 0A0B0B",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on solid buttons that uses light text in lightmode and dark text in darkmode. Icons in same context.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773566896306"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773566896306"
+      }
+    },
+    {
+      "id": "content-1773567518668",
+      "level": "Content",
+      "variableNameNow": "neutral-04",
+      "variableName30": "",
+      "variableHexNow": "A0A6A4 / 595F5D",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used when icon need a bit muted look. Now only used in iOS. ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567518668"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567518668"
+      }
+    },
+    {
+      "id": "content-1773567537671",
+      "level": "Content",
+      "variableNameNow": "inversed",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF / F7F8F7",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "Naming? What are we using this for?",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567537671"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567537671"
+      }
+    },
+    {
+      "id": "content-1773567553374",
+      "level": "Content",
+      "variableNameNow": "brand-01",
+      "variableName30": "",
+      "variableHexNow": "003824 / 003824",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "Should this change darkmode hex?",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567553374"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567553374"
+      }
+    },
+    {
+      "id": "content-1773567566578",
+      "level": "Content",
+      "variableNameNow": "brand-02",
+      "variableName30": "",
+      "variableHexNow": "685631 / D6C7A8",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on tonal combinations on cards and components on level 3.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567566578"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567566578"
+      }
+    },
+    {
+      "id": "content-1773567583133",
+      "level": "Content",
+      "variableNameNow": "positive-01",
+      "variableName30": "",
+      "variableHexNow": "027839 / 8AE58D",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on content on positive alert and badge. . Use on npositive number.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567583133"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567583133"
+      }
+    },
+    {
+      "id": "content-1773567598146",
+      "level": "Content",
+      "variableNameNow": "positive-02",
+      "variableName30": "",
+      "variableHexNow": "EAF6EA / 027839",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Can be used for tonal combinations with the other positive variables.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567598146"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567598146"
+      }
+    },
+    {
+      "id": "content-1773567628767",
+      "level": "Content",
+      "variableNameNow": "positive-03",
+      "variableName30": "",
+      "variableHexNow": "026436 / 8AE58D",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on positive badge to reach contrast. ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567628767"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567628767"
+      }
+    },
+    {
+      "id": "content-1773567646738",
+      "level": "Content",
+      "variableNameNow": "negative-01",
+      "variableName30": "",
+      "variableHexNow": "B92F13 / F08975",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on content on negative alert and badge. Use on content (text and icon) on error state. Use on negative number.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567646738"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567646738"
+      }
+    },
+    {
+      "id": "content-1773567661559",
+      "level": "Content",
+      "variableNameNow": "negative-02",
+      "variableName30": "",
+      "variableHexNow": "FDEBE8 / F5B0A3",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Can be used for tonal combinations with the other positive variables.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567661559"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567661559"
+      }
+    },
+    {
+      "id": "content-1773567678210",
+      "level": "Content",
+      "variableNameNow": "warning-01",
+      "variableName30": "",
+      "variableHexNow": "8F530A / F5B970",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on content on warning alert and badge. ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567678210"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567678210"
+      }
+    },
+    {
+      "id": "content-1773567710627",
+      "level": "Content",
+      "variableNameNow": "warning-02",
+      "variableName30": "",
+      "variableHexNow": "FCE8CF / FCE8CF",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "Can be used for tonal combinations with the other warning variables. DARK MODE?",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567710627"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567710627"
+      }
+    },
+    {
+      "id": "content-1773567729156",
+      "level": "Content",
+      "variableNameNow": "notice-01",
+      "variableName30": "",
+      "variableHexNow": "005FB3 / 66B8FF",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on content on notice alert and badge. ",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567729156"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567729156"
+      }
+    },
+    {
+      "id": "content-1773567741639",
+      "level": "Content",
+      "variableNameNow": "notice-02",
+      "variableName30": "",
+      "variableHexNow": "E6F3FF / 99CFFF",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Can be used for tonal combinations with the other notice variables.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567741639"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567741639"
+      }
+    },
+    {
+      "id": "content-1773567773710",
+      "level": "Content",
+      "variableNameNow": "disabled-01",
+      "variableName30": "",
+      "variableHexNow": "A0A6A4 / CACECC",
+      "variableHex30": "000 38 % / FFF 38 %",
+      "commentBadge": {
+        "text": "New hex",
+        "variant": "notice",
+        "iconName": "notice"
+      },
+      "usedFor": "Use on disabled content. Text and icons.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567773710"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567773710"
+      }
+    },
+    {
+      "id": "content-1773567789945",
+      "level": "Content",
+      "variableNameNow": "disabled-02",
+      "variableName30": "",
+      "variableHexNow": "F7F8F7 / CACECC",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "REMOVE",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567789945"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "content-1773567789945"
+      }
+    }
+  ],
+  "borderRows": [
+    {
+      "id": "border-1",
+      "level": "Border",
+      "variableNameNow": "interactive",
+      "variableName30": "",
+      "variableHexNow": "777E7C / A0A6A4",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "NAME? Neutral?",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "Use on interactive components. Used in input, radio, checkbox, dropdown...",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1"
+      }
+    },
+    {
+      "id": "border-1773568955269",
+      "level": "Border",
+      "variableNameNow": "subtle-01",
+      "variableName30": "",
+      "variableHexNow": "DFE1E1 / 454A48",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "NAME? Neutral?",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "Used for example on the outlined card. Use when border needs a slightly higher visibility than sutble-02.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773568955269"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773568955269"
+      }
+    },
+    {
+      "id": "border-1773568976759",
+      "level": "Border",
+      "variableNameNow": "subtle-02",
+      "variableName30": "",
+      "variableHexNow": "EFF0F0 / 282A29",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "NAME? Neutral?",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "Use when only a small visible que on sections is needed. Can be used together with shadow to make the contrast a bit clearer.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773568976759"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773568976759"
+      }
+    },
+    {
+      "id": "border-1773569002459",
+      "level": "Border",
+      "variableNameNow": "strong",
+      "variableName30": "",
+      "variableHexNow": "0A0B0B / F7F8F7",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "NAME? Neutral?",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "Used on active states on some of the form components.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569002459"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569002459"
+      }
+    },
+    {
+      "id": "border-1773569023100",
+      "level": "Border",
+      "variableNameNow": "inverse",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF / FFFFFF",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "NAME? ",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "DARKMODE? Used for?",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569023100"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569023100"
+      }
+    },
+    {
+      "id": "border-1773569037996",
+      "level": "Border",
+      "variableNameNow": "information-01",
+      "variableName30": "",
+      "variableHexNow": "0A0B0B / 636967",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for?",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569037996"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569037996"
+      }
+    },
+    {
+      "id": "border-1773569061667",
+      "level": "Border",
+      "variableNameNow": "information-02",
+      "variableName30": "",
+      "variableHexNow": "0A0B0B 40 % / 636967 40 %",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for border on information alert.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569061667"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569061667"
+      }
+    },
+    {
+      "id": "border-1773569101835",
+      "level": "Border",
+      "variableNameNow": "positive-01",
+      "variableName30": "",
+      "variableHexNow": "027839 / 8AE58D",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Not used. But may be used on success states on form components in the future.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569101835"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569101835"
+      }
+    },
+    {
+      "id": "border-1773569119494",
+      "level": "Border",
+      "variableNameNow": "positive-02",
+      "variableName30": "",
+      "variableHexNow": "027839 40 % / 8AE58D 40 %",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for border on positive alert.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569119494"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569119494"
+      }
+    },
+    {
+      "id": "border-1773569161273",
+      "level": "Border",
+      "variableNameNow": "negative-01",
+      "variableName30": "",
+      "variableHexNow": "B92F13 / F08975",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used on error states on form components.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569161273"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569161273"
+      }
+    },
+    {
+      "id": "border-1773569176685",
+      "level": "Border",
+      "variableNameNow": "negative-02",
+      "variableName30": "",
+      "variableHexNow": "B92F13 40 % / F08975 40 %",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for border on negative alert.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569176685"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569176685"
+      }
+    },
+    {
+      "id": "border-1773569200398",
+      "level": "Border",
+      "variableNameNow": "warning-01",
+      "variableName30": "",
+      "variableHexNow": "8F530A / F5B970",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Not used. But may be used on warning states on form components in the future.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569200398"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569200398"
+      }
+    },
+    {
+      "id": "border-1773569217140",
+      "level": "Border",
+      "variableNameNow": "warning-02",
+      "variableName30": "",
+      "variableHexNow": "8F530A 40 % / F5B970 40 %",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for border on warning alert.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569217140"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569217140"
+      }
+    },
+    {
+      "id": "border-1773569238177",
+      "level": "Border",
+      "variableNameNow": "notice-01",
+      "variableName30": "",
+      "variableHexNow": "005FB3 / 66B8FF",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Not used. But may be used tonal combination with other notice variables.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569238177"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569238177"
+      }
+    },
+    {
+      "id": "border-1773569256227",
+      "level": "Border",
+      "variableNameNow": "notice-02",
+      "variableName30": "",
+      "variableHexNow": "005FB3 40 % / 66B8FF 40 %",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Used for border on notice alert.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569256227"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "border-1773569256227"
+      }
+    }
+  ],
+  "stateRows": [
+    {
+      "id": "state-1773580797091",
+      "level": "State",
+      "variableNameNow": "neutral-01",
+      "variableName30": "",
+      "variableHexNow": "FFF 20% / 000 20%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on primary neutral button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580797091"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580797091"
+      }
+    },
+    {
+      "id": "state-1773580804102",
+      "level": "State",
+      "variableNameNow": "neutral-02",
+      "variableName30": "",
+      "variableHexNow": "FFF 35% / 000 35%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on primary neutral button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580804102"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580804102"
+      }
+    },
+    {
+      "id": "state-1773580809693",
+      "level": "State",
+      "variableNameNow": "neutral-03",
+      "variableName30": "",
+      "variableHexNow": "000 6% / FFF 20%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on secondary neutral button and l2 neutral-01, like linked card.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580809693"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580809693"
+      }
+    },
+    {
+      "id": "state-1773580815481",
+      "level": "State",
+      "variableNameNow": "neutral-04",
+      "variableName30": "",
+      "variableHexNow": "000 14% / FFF 30%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on secondary neutral button and l2 neutral-01, like linked card.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580815481"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580815481"
+      }
+    },
+    {
+      "id": "state-1773580820506",
+      "level": "State",
+      "variableNameNow": "neutral-05",
+      "variableName30": "",
+      "variableHexNow": "000 6% / FFF 12%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on tertiary neutral button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580820506"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580820506"
+      }
+    },
+    {
+      "id": "state-1773580826826",
+      "level": "State",
+      "variableNameNow": "neutral-06",
+      "variableName30": "",
+      "variableHexNow": "000 14% / FFF 25%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on tertiary neutral button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580826826"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580826826"
+      }
+    },
+    {
+      "id": "state-1",
+      "level": "State",
+      "variableNameNow": "brand-01",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF 20% / 000000 20%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on brand primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1"
+      }
+    },
+    {
+      "id": "state-1773580381450",
+      "level": "State",
+      "variableNameNow": "brand-02",
+      "variableName30": "",
+      "variableHexNow": "FFFFFF 35% / 000000 30%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on brand primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580381450"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580381450"
+      }
+    },
+    {
+      "id": "state-1773580439407",
+      "level": "State",
+      "variableNameNow": "brand-03",
+      "variableName30": "",
+      "variableHexNow": "003824 6% / 003824 30%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover brand secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580439407"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580439407"
+      }
+    },
+    {
+      "id": "state-1773580491140",
+      "level": "State",
+      "variableNameNow": "brand-04",
+      "variableName30": "",
+      "variableHexNow": "003824 14% / 003824 70%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed brand secondary button",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580491140"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580491140"
+      }
+    },
+    {
+      "id": "state-1773580542805",
+      "level": "State",
+      "variableNameNow": "brand-05",
+      "variableName30": "",
+      "variableHexNow": "003824 6% / 003824 50%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hovered state on brand tertiary container.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580542805"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580542805"
+      }
+    },
+    {
+      "id": "state-1773580598412",
+      "level": "State",
+      "variableNameNow": "brand-06",
+      "variableName30": "",
+      "variableHexNow": "003824 14% / 003824 90%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed brand tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580598412"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580598412"
+      }
+    },
+    {
+      "id": "state-1773580709550",
+      "level": "State",
+      "variableNameNow": "brand-02-02",
+      "variableName30": "",
+      "variableHexNow": "685631 4% /  D6C7A8 12%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hovered state on brand-02 container. For example the tonal copper button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580709550"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580709550"
+      }
+    },
+    {
+      "id": "state-1773580736767",
+      "level": "State",
+      "variableNameNow": "brand-02-03",
+      "variableName30": "",
+      "variableHexNow": "685631 10% / D6C7A8 18%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on brand-02 container. For example tonal copper button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580736767"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773580736767"
+      }
+    },
+    {
+      "id": "state-1773581028041",
+      "level": "State",
+      "variableNameNow": "positive-01",
+      "variableName30": "",
+      "variableHexNow": "FFF 12% / 000 12%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on positive primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581028041"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581028041"
+      }
+    },
+    {
+      "id": "state-1773581059611",
+      "level": "State",
+      "variableNameNow": "positive-02",
+      "variableName30": "",
+      "variableHexNow": "FFF 23% / 000 23%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on positive primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581059611"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581059611"
+      }
+    },
+    {
+      "id": "state-1773581096859",
+      "level": "State",
+      "variableNameNow": "positive-03",
+      "variableName30": "",
+      "variableHexNow": "027839 8% / FFFFFF 8%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on positive secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581096859"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581096859"
+      }
+    },
+    {
+      "id": "state-1773581123113",
+      "level": "State",
+      "variableNameNow": "positive-04",
+      "variableName30": "",
+      "variableHexNow": "027839 16% / FFFFFF 14%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on positive secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581123113"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581123113"
+      }
+    },
+    {
+      "id": "state-1773581142534",
+      "level": "State",
+      "variableNameNow": "positive-05",
+      "variableName30": "",
+      "variableHexNow": "027839 8% / 027839  30%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on positive tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581142534"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581142534"
+      }
+    },
+    {
+      "id": "state-1773581174788",
+      "level": "State",
+      "variableNameNow": "positive-06",
+      "variableName30": "",
+      "variableHexNow": "027839 16% / 027839  50%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on positive tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581174788"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581174788"
+      }
+    },
+    {
+      "id": "state-1773581242667",
+      "level": "State",
+      "variableNameNow": "negative-01",
+      "variableName30": "",
+      "variableHexNow": "FFF 8% / 000 15%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on negative primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581242667"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581242667"
+      }
+    },
+    {
+      "id": "state-1773581247934",
+      "level": "State",
+      "variableNameNow": "negative-02",
+      "variableName30": "",
+      "variableHexNow": "FFF 16% / 000 30%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on negative primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581247934"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581247934"
+      }
+    },
+    {
+      "id": "state-1773581252901",
+      "level": "State",
+      "variableNameNow": "negative-03",
+      "variableName30": "",
+      "variableHexNow": "B92F13 8% / FFFFFF 8%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on negative secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581252901"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581252901"
+      }
+    },
+    {
+      "id": "state-1773581258051",
+      "level": "State",
+      "variableNameNow": "negative-04",
+      "variableName30": "",
+      "variableHexNow": "B92F13 16% / FFFFFF 14%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on negative secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581258051"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581258051"
+      }
+    },
+    {
+      "id": "state-1773581262456",
+      "level": "State",
+      "variableNameNow": "negative-05",
+      "variableName30": "",
+      "variableHexNow": "B92F13 8% / B92F13 30%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on negative tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581262456"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581262456"
+      }
+    },
+    {
+      "id": "state-1773581267255",
+      "level": "State",
+      "variableNameNow": "negative-06",
+      "variableName30": "",
+      "variableHexNow": "B92F13 16% / B92F13 45%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on negative tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581267255"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773581267255"
+      }
+    },
+    {
+      "id": "state-notice-01",
+      "level": "State",
+      "variableNameNow": "notice-01",
+      "variableName30": "",
+      "variableHexNow": "FFF 20% / 000 12%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on notice (buy) primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-01"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-01"
+      }
+    },
+    {
+      "id": "state-notice-02",
+      "level": "State",
+      "variableNameNow": "notice-02",
+      "variableName30": "",
+      "variableHexNow": "FFF 35% / 000 20%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on notice (buy) primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-02"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-02"
+      }
+    },
+    {
+      "id": "state-notice-03",
+      "level": "State",
+      "variableNameNow": "notice-03",
+      "variableName30": "",
+      "variableHexNow": "005FB3 8% / FFFFFF 6%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on notice secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-03"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-03"
+      }
+    },
+    {
+      "id": "state-notice-04",
+      "level": "State",
+      "variableNameNow": "notice-04",
+      "variableName30": "",
+      "variableHexNow": "005FB3 16% / FFFFFF 10%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on notice secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-04"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-04"
+      }
+    },
+    {
+      "id": "state-notice-05",
+      "level": "State",
+      "variableNameNow": "notice-05",
+      "variableName30": "",
+      "variableHexNow": "005FB3 8% / 005FB3 40%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on notice tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-05"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-05"
+      }
+    },
+    {
+      "id": "state-notice-06",
+      "level": "State",
+      "variableNameNow": "notice-06",
+      "variableName30": "",
+      "variableHexNow": "005FB3 16% / 005FB3 60%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on notice tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-06"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-notice-06"
+      }
+    },
+    {
+      "id": "state-warning-01",
+      "level": "State",
+      "variableNameNow": "warning-01",
+      "variableName30": "",
+      "variableHexNow": "FFF 20% / 000 6%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on warning primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-01"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-01"
+      }
+    },
+    {
+      "id": "state-warning-02",
+      "level": "State",
+      "variableNameNow": "warning-02",
+      "variableName30": "",
+      "variableHexNow": "FFF 35% / 000 14%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on warning primary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-02"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-02"
+      }
+    },
+    {
+      "id": "state-warning-03",
+      "level": "State",
+      "variableNameNow": "warning-03",
+      "variableName30": "",
+      "variableHexNow": "8F530A 8% / FFFFFF 8%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on warning secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-03"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-03"
+      }
+    },
+    {
+      "id": "state-warning-04",
+      "level": "State",
+      "variableNameNow": "warning-04",
+      "variableName30": "",
+      "variableHexNow": "8F530A 16% / FFFFFF 14%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on warning secondary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-04"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-04"
+      }
+    },
+    {
+      "id": "state-warning-05",
+      "level": "State",
+      "variableNameNow": "warning-05",
+      "variableName30": "",
+      "variableHexNow": "8F530A 8% / F19E38 12%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Hover state on warning tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-05"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-05"
+      }
+    },
+    {
+      "id": "state-warning-06",
+      "level": "State",
+      "variableNameNow": "warning-06",
+      "variableName30": "",
+      "variableHexNow": "8F530A 16% / F19E38 20%",
+      "variableHex30": "",
+      "commentBadge": {
+        "text": "No changes",
+        "variant": "positive",
+        "iconName": "success"
+      },
+      "usedFor": "Pressed state on warning tertiary button.",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-06"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-warning-06"
+      }
+    },
+    {
+      "id": "state-1773593635428",
+      "level": "State",
+      "variableNameNow": "",
+      "variableName30": "dark-buttons",
+      "variableHexNow": "",
+      "variableHex30": "FFFF 10% / 000 10%",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "For apps? Needed?",
+      "comment": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773593635428"
+      },
+      "actions": {
+        "value": "",
+        "slots": [
+          "main"
+        ],
+        "key": "state-1773593635428"
+      }
+    },
+    {
+      "id": "state-1773593699225",
+      "level": "State",
+      "variableNameNow": "",
+      "variableName30": "light-buttons",
+      "variableHexNow": "",
+      "variableHex30": "000 10% / FFF 10%",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "For apps? Needed?"
+    },
+    {
+      "id": "state-1773593766488",
+      "level": "State",
+      "variableNameNow": "",
+      "variableName30": "inversed-buttons",
+      "variableHexNow": "",
+      "variableHex30": "FFF 10% / FFF 8%",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "For apps? Needed?"
+    },
+    {
+      "id": "state-1773593812697",
+      "level": "State",
+      "variableNameNow": "",
+      "variableName30": "on-press",
+      "variableHexNow": "",
+      "variableHex30": "000 8% / FFF 10% ",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "For apps? Needed?"
+    },
+    {
+      "id": "state-1773593849310",
+      "level": "State",
+      "variableNameNow": "",
+      "variableName30": "on-press-inverted",
+      "variableHexNow": "",
+      "variableHex30": "FFF 10% / 000 8%",
+      "commentBadge": {
+        "text": "Need to talk",
+        "variant": "negative",
+        "iconName": "negative"
+      },
+      "usedFor": "For apps? Needed?"
+    }
+  ]
+}
