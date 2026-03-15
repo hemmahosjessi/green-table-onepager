@@ -1,15 +1,13 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import {
   GdsAlert,
-  GdsButton,
   GdsDiv,
   GdsGrid,
   GdsSegment,
   GdsSegmentedControl,
   GdsText,
-  IconCloudDownload,
-  IconCloudUpload,
 } from '@sebgroup/green-core/react'
+import AppHeader from './components/AppHeader'
 import VariableTableSection from './components/VariableTableSection'
 import initialData from './data/variable-table-data.json'
 
@@ -336,77 +334,54 @@ function App() {
         box-sizing="border-box"
       >
         <GdsDiv display="grid" gap="s">
-          <GdsDiv display="flex" justify-content="space-between" align-items="start" gap="m">
-            <GdsDiv display="grid" gap="2xs">
-              <GdsText tag="h1" font="display-l" margin="0">
-                Variable mapping overview
-              </GdsText>
-              <GdsText margin="0" color="neutral-02" font="preamble-l">
-                Updates, additions and deletions of variables for 3.0.
-              </GdsText>
-            </GdsDiv>
+          <AppHeader
+            onSaveToProjectJson={handleSaveToProjectJson}
+            onDownloadJson={() => saveJsonToDisk(tableData)}
+            onImportJson={() => fileInputRef.current?.click()}
+            onFileChange={importJsonFile}
+            fileInputRef={fileInputRef}
+          />
 
-            <GdsDiv
-              display="grid"
-              gap="2xs"
-              justify-items="end"
-              style={{ marginTop: '16px', position: 'relative' }}
+          {importError && (
+            <GdsText margin="0" color="negative" font="detail-m">
+              {importError}
+            </GdsText>
+          )}
+          {saveError && (
+            <GdsText margin="0" color="negative" font="detail-m">
+              {saveError}
+            </GdsText>
+          )}
+          {showProjectSaveAlert && !saveError && (
+            <div
+              style={{
+                position: 'relative',
+                width: '100%',
+              }}
             >
-              <GdsDiv display="flex" gap="s" flex-wrap="wrap" justify-content="end">
-                <GdsButton rank="secondary" onClick={handleSaveToProjectJson}>
-                  Save to project JSON
-                </GdsButton>
-                <GdsButton variant="brand" onClick={() => saveJsonToDisk(tableData)}>
-                  <IconCloudDownload slot="lead" size="xl" label="Download" />
-                  Download current JSON
-                </GdsButton>
-                <GdsButton variant="brand" onClick={() => fileInputRef.current?.click()}>
-                  <IconCloudUpload slot="lead" size="xl" label="Import" />
-                  Import JSON
-                </GdsButton>
-              </GdsDiv>
-              <input
-                ref={fileInputRef}
-                type="file"
-                accept="application/json"
-                style={{ display: 'none' }}
-                onChange={importJsonFile}
-              />
-              {importError && (
-                <GdsText margin="0" color="negative" font="detail-m">
-                  {importError}
-                </GdsText>
-              )}
-              {saveError && (
-                <GdsText margin="0" color="negative" font="detail-m">
-                  {saveError}
-                </GdsText>
-              )}
-              {showProjectSaveAlert && !saveError && (
-                <div
-                  style={{
-                    position: 'absolute',
-                    top: 'calc(100% + 16px)',
-                    right: 0,
-                    width: '100%',
-                    maxWidth: '460px',
-                    zIndex: 20,
-                  }}
+              <div
+                style={{
+                  position: 'absolute',
+                  top: 'calc(100% + 16px)',
+                  right: 0,
+                  width: '100%',
+                  maxWidth: '460px',
+                  zIndex: 20,
+                }}
+              >
+                <GdsAlert
+                  key={projectSaveAlertKey}
+                  variant="positive"
+                  role="status"
+                  label="Project JSON save status"
+                  timeout={3000}
+                  onGdsClose={() => setShowProjectSaveAlert(false)}
                 >
-                    <GdsAlert
-                      key={projectSaveAlertKey}
-                      variant="positive"
-                      role="status"
-                      label="Project JSON save status"
-                      timeout={3000}
-                      onGdsClose={() => setShowProjectSaveAlert(false)}
-                    >
-                      Saved to src/data/variable-table-data.json
-                    </GdsAlert>
-                </div>
-              )}
-            </GdsDiv>
-          </GdsDiv>
+                  Saved to src/data/variable-table-data.json
+                </GdsAlert>
+              </div>
+            </div>
+          )}
         </GdsDiv>
 
         <GdsDiv display="grid" gap="xl">
