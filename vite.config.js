@@ -45,6 +45,7 @@ function saveTableDataPlugin() {
 }
 
 // https://vite.dev/config/
+// Force rebuild
 export default defineConfig({
   base: '/green-table-onepager/',
   plugins: [react(), saveTableDataPlugin()],
